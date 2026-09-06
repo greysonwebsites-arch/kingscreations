@@ -1,8 +1,8 @@
 KINGS CREATIONS — MODERN DIGITAL STUDIO WEBSITE
 
-Dark premium digital-studio design inspired by music-app interfaces, but with original Kings Creations branding and layout.
+Updated visual edition with AI-generated creative imagery integrated into the homepage and Clients & Creative section.
 
-Features: responsive design, animated service ticker, large moving typography, animated device mockups, interactive bottom player/status bar, services, work showcase, about, process and contact sections.
+Features: responsive design, animated service ticker, moving typography, animated device mockups, interactive bottom player/status bar, services, work showcase, large visual banner, client/creative showcase, about, process and contact sections.
 
 Contact: 0973 064 657 | greysonwebsites@gmail.com | www.kingscreations.com | Zambia
 
